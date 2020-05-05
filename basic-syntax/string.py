@@ -56,3 +56,6 @@ print(s.title())
 print(s.upper())
 print(s.lower())
 print(s.replace('Mike', 'Nancy'))
+
+a = "a"
+print(f'a is {a}')
